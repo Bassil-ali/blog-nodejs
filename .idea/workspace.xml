@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59cad805-2db1-40ee-8f8c-05647976161e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/articles.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/articles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +52,14 @@
       <updated>1691161200330</updated>
       <workItem from="1691161201311" duration="1262000" />
       <workItem from="1691173303916" duration="2621000" />
-      <workItem from="1691225653693" duration="6459000" />
+      <workItem from="1691225653693" duration="6637000" />
+      <workItem from="1691235256622" duration="30000" />
+      <workItem from="1691238491285" duration="429000" />
+      <workItem from="1691246908419" duration="66000" />
+      <workItem from="1691259881291" duration="296000" />
+      <workItem from="1691313271503" duration="249000" />
+      <workItem from="1691323864348" duration="612000" />
+      <workItem from="1691327046468" duration="194000" />
     </task>
     <servers />
   </component>
