@@ -18,6 +18,7 @@
     "method-override": "^3.0.0",
     "mongoose": "^5.9.4",
     "mongose": "^0.0.2-security",
+    "mysql": "^2.18.1",
     "slugify": "^1.4.0"
   },
   "devDependencies": {
